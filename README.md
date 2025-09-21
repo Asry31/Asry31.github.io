@@ -30,21 +30,11 @@ Sebagai seorang Web Developer, saya memiliki passion kuat dalam menciptakan solu
 
 <div align="center">
   <a href="https://sigma-resto.web.app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-pinned-repo-1&theme=highcontrast" alt="Proyek 1" width="400" />
+    <img src="https://sigma-resto.web.app/login" alt="Proyek 1" width="400" />
   </a>
   <a href="https://github.com/your-github-username/your-pinned-repo-2" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-pinned-repo-2&theme=highcontrast" alt="Proyek 2" width="400" />
   </a>
-</div>
-
----
-
-### 📊 Statistik GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=highcontrast&hide_rank=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=highcontrast" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=highcontrast" alt="Top Languages">
 </div>
 
 ---
@@ -56,13 +46,13 @@ Sebagai seorang Web Developer, saya memiliki passion kuat dalam menciptakan solu
 </p>
 
 <div align="center">
-  <a href="mailto:email-anda@gmail.com" target="_blank">
+  <a href="mailto:Putraasry86@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://wa.me/6281234567890" target="_blank">
+  <a href="https://wa.me/085765725877" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
   <a href="https://twitter.com/your-twitter-profile" target="_blank">
