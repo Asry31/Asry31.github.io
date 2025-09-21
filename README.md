@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://i.imgur.com/your-profile-picture.png" alt="Foto Profil Putra" width="180" style="border-radius: 50%; box-shadow: 0 0 15px rgba(0, 255, 0, 0.5);">
+  <img src="http://avatars.githubusercontent.com/u/193345457?v=4" alt="Foto Profil Putra Arsy Sanjaya Tanjung" width="180" style="border-radius: 50%; box-shadow: 0 0 15px rgba(0, 255, 0, 0.5);">
   <h1>Halo, Saya <span style="color: #4CAF50;">Putra</span>! ✨</h1>
   <p><i>Building things for the web, one line of code at a time.</i></p>
   
-  <a href="https://komarev.com/ghpvc/?username=your-username&color=green" alt="Profil views"></a>
+  <a href="https://github.com/Asry31" alt="Profil views"></a>
 </div>
 
 ---
@@ -14,9 +14,6 @@
   <p>
     Saya adalah seorang <b>Pengembang Web</b> yang bersemangat dengan keahlian utama dalam <b>Python</b> untuk <i>backend development</i>, <b>HTML</b> untuk struktur, dan <b>JSON</b> untuk pertukaran data. Saya memiliki minat mendalam pada otomasi dan membangun solusi yang efisien.
   </p>
-  <p>
-    Saat ini, saya sedang mendalami <b>[sebutkan teknologi atau topik yang sedang Anda pelajari, misal: Django Framework]</b> untuk memperluas cakupan proyek saya.
-  </p>
 </div>
 
 ---
@@ -24,11 +21,11 @@
 ### 💻 Keahlian & Teknologi
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,json,git,github,vscode,linux" alt="Skills Icons">
+  <img src="https://skillicons.dev/icons?i=python,html,json,git,github,vscode" alt="Skills Icons">
 </div>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=css,js,react,nodejs,docker" alt="Learning Icons" />
+  <img src="https://skillicons.dev/icons?i=css,js,nodejs,html" alt="Learning Icons" />
   <br>
   <span style="font-size: 0.9em; color: gray;">(Teknologi yang sedang saya pelajari)</span>
 </p>
