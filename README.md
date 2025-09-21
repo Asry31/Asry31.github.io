@@ -65,7 +65,7 @@
 </p>
 
 <div align="center">
-  <a href="putraarsy86@gmail.com" target="_blank">
+  <a href="https://mail.google.com/putraarsy86@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
