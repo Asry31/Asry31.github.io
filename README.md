@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/your-profile-picture.png" alt="Foto Profil Putra" width="180" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 0 20px rgba(0, 123, 255, 0.7);">
+  <img src="https://avatars.githubusercontent.com/u/193345457?v=4" alt="Foto Profil Putra" width="180" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 0 20px rgba(0, 123, 255, 0.7);">
   <h1>Hai, Saya <span style="color: #007bff;">Putra</span>! 👋</h1>
   <p><i>Building meaningful things for the web, one line of code at a time.</i></p>
 </div>
@@ -17,7 +17,7 @@ Sebagai seorang Web Developer, saya memiliki passion kuat dalam menciptakan solu
 ### 🛠️ Keahlian & Teknologi
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,json,git,github,vscode,linux" alt="Skills Icons">
+  <img src="https://skillicons.dev/icons?i=python,html,json,github,vscode" alt="Skills Icons">
 </div>
 
 ---
@@ -29,7 +29,7 @@ Sebagai seorang Web Developer, saya memiliki passion kuat dalam menciptakan solu
 </p>
 
 <div align="center">
-  <a href="https://github.com/your-github-username/your-pinned-repo-1" target="_blank">
+  <a href="https://sigma-resto.web.app" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-pinned-repo-1&theme=highcontrast" alt="Proyek 1" width="400" />
   </a>
   <a href="https://github.com/your-github-username/your-pinned-repo-2" target="_blank">
