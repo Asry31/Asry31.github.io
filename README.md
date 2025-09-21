@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/your-profile-picture.png" alt="Foto Profil Putra" width="150" style="border-radius: 50%;">
+  <img src="https://avatars.githubusercontent.com/u/193345457?v=4" alt="Foto Profil Putra" width="150" style="border-radius: 50%;">
   <h1>Halo, Saya Putra! 👋</h1>
   <p><i>Seorang pengembang yang bersemangat dengan fokus pada pembuatan solusi web yang efisien dan menarik.</i></p>
 </div>
