@@ -21,7 +21,7 @@
 ### 💻 Keahlian & Teknologi
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,js,git,github,vscode" alt="Skills Icons">
+  <img src="https://skillicons.dev/icons?i=python,html,js,git,vscode" alt="Skills Icons">
 </div>
 <br>
 <p align="center">
