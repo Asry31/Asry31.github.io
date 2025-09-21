@@ -17,7 +17,7 @@ Sebagai seorang Web Developer, saya memiliki passion kuat dalam menciptakan solu
 ### 🛠️ Keahlian & Teknologi
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,json,github,vscode" alt="Skills Icons">
+  <img src="https://skillicons.dev/icons?i=python,html,js,github,vscode" alt="Skills Icons">
 </div>
 
 ---
