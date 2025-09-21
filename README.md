@@ -32,7 +32,7 @@ Sebagai seorang Web Developer, saya memiliki passion kuat dalam menciptakan solu
   <a href="https://sigma-resto.web.app" target="_blank">
     <img src="https://github.com/Asry31/Asry31/blob/main/Cuplikan%20layar%202025-09-21%20233904.png" alt="Proyek 1" width="400" />
   </a>
-  <a href="https://github.com/your-github-username/your-pinned-repo-2" target="_blank">
+  <a href="https://sigma-smart-akademik.web.app/" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-pinned-repo-2&theme=highcontrast" alt="Proyek 2" width="400" />
   </a>
 </div>
