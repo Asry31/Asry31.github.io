@@ -1,67 +1,53 @@
 <div align="center">
-  <img src="https://i.imgur.com/your-profile-picture.png" alt="Foto Profil Putra" width="180" style="border-radius: 50%; border: 4px solid #3498db;">
-  <h1>Halo, Saya <span style="color: #3498db;">Putra</span>! 👨‍💻</h1>
-  <p><i>Building meaningful things for the web, one line of code at a time.</i></p>
-</div>
-
-<p align="center">
-  Saya seorang <b>Web Developer</b> yang bersemangat dengan fokus pada <b>Python</b>, <b>JSON</b>, dan <b>HTML</b>. Saya menyukai tantangan dalam membangun aplikasi dari nol dan terus belajar hal-hal baru.
-</p>
-
----
-
-### 💻 Keahlian & Teknologi
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,json,git,github,vscode,linux" alt="Skills Icons">
+  <img src="https://i.imgur.com/your-profile-picture.png" alt="Foto Profil Putra" width="150" style="border-radius: 50%; border: 3px solid #007bff; box-shadow: 0 0 10px rgba(0, 123, 255, 0.5);">
+  <h1>Putra</h1>
+  <p style="color: #6c757d; margin-top: -10px;"><b>NIM:</b> 123456789</p>
+  <p><i>Mahasiswa yang bersemangat dalam dunia teknologi dengan fokus pada pengembangan web.</i></p>
 </div>
 
 ---
 
-### 🚀 Proyek Pilihan
+### 📝 Deskripsi Singkat
 
-<p align="center">
-  Berikut adalah beberapa proyek yang saya banggakan.
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-pinned-repo-1&theme=blue-green" alt="Proyek 1" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-pinned-repo-2&theme=blue-green" alt="Proyek 2" width="400" />
-</div>
-
-<p align="center">
-  <a href="https://github.com/your-github-username?tab=repositories" target="_blank">Lihat Semua Repositori >></a>
+<p align="justify">
+Saya adalah seorang mahasiswa yang aktif dan bersemangat dalam mempelajari hal-hal baru. Saya memiliki minat besar pada pengembangan web dan otomasi, serta senang memecahkan masalah melalui kode. Saya percaya bahwa dengan konsistensi dan dedikasi, kita bisa menciptakan solusi yang luar biasa.
 </p>
 
 ---
 
-### 📊 Statistik GitHub
+### 🎓 Riwayat Pendidikan
+
+- <b>[Nama Universitas]</b> | [Tahun Masuk] - [Tahun Lulus]
+- <b>[Nama Sekolah Menengah Atas]</b> | [Tahun Masuk] - [Tahun Lulus]
+
+---
+
+### 🛠️ Daftar Keterampilan
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=blue-green&hide_rank=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=blue-green" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=blue-green" alt="Top Languages">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON Badge">
+  </a>
 </div>
 
 ---
 
-### 👋 Mari Terhubung!
-
-<p align="center">
-  Saya selalu senang untuk terhubung dan berkolaborasi.
-</p>
+### 💬 Informasi Kontak
 
 <div align="center">
-  <a href="mailto:email-anda@gmail.com" target="_blank">
+  <a href="mailto:putra@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://wa.me/6281234567890" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="https://twitter.com/your-twitter-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://github.com/your-github-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
