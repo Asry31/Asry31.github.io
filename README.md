@@ -1,28 +1,32 @@
 <div align="center">
-  <img src="https://i.imgur.com/your-profile-picture.png" alt="Foto Profil Putra" width="150" style="border-radius: 50%; border: 3px solid #4CAF50;">
-  <h1>Halo, Saya <span style="color: #4CAF50;">Putra</span>! ✨</h1>
-  <p><i>Building meaningful things for the web.</i></p>
+  <img src="https://i.imgur.com/your-profile-picture.png" alt="Foto Profil Putra" width="180" style="border-radius: 50%; border: 4px solid #3498db;">
+  <h1>Halo, Saya <span style="color: #3498db;">Putra</span>! 👨‍💻</h1>
+  <p><i>Building meaningful things for the web, one line of code at a time.</i></p>
 </div>
+
+<p align="center">
+  Saya seorang <b>Web Developer</b> yang bersemangat dengan fokus pada <b>Python</b>, <b>JSON</b>, dan <b>HTML</b>. Saya menyukai tantangan dalam membangun aplikasi dari nol dan terus belajar hal-hal baru.
+</p>
 
 ---
 
-### 💡 Keahlian Utama
+### 💻 Keahlian & Teknologi
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,json,git,vscode" alt="Skills Icons">
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,json,git,github,vscode,linux" alt="Skills Icons">
+</div>
 
 ---
 
 ### 🚀 Proyek Pilihan
 
 <p align="center">
-  Beberapa karya yang saya banggakan:
+  Berikut adalah beberapa proyek yang saya banggakan.
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-pinned-repo-1&theme=nord" alt="Proyek 1" width="380" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-pinned-repo-2&theme=nord" alt="Proyek 2" width="380" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-pinned-repo-1&theme=blue-green" alt="Proyek 1" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-pinned-repo-2&theme=blue-green" alt="Proyek 2" width="400" />
 </div>
 
 <p align="center">
@@ -31,16 +35,17 @@
 
 ---
 
-### 📊 Aktivitas GitHub
+### 📊 Statistik GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=nord&hide_rank=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=nord" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=blue-green&hide_rank=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=blue-green" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=blue-green" alt="Top Languages">
 </div>
 
 ---
 
-### 👋 Mari Berdiskusi!
+### 👋 Mari Terhubung!
 
 <p align="center">
   Saya selalu senang untuk terhubung dan berkolaborasi.
@@ -60,7 +65,3 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/half-blooded/half-blooded/main/assets/images/footer.svg" alt="Footer Animation" />
-</p>
