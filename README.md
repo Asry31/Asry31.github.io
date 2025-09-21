@@ -1,53 +1,71 @@
 <div align="center">
-  <img src="https://i.imgur.com/your-profile-picture.png" alt="Foto Profil Putra" width="180" style="border-radius: 50%;">
-  <h1>Halo, Saya <span style="color: #4CAF50;">Putra</span>! 💚</h1>
+  <img src="https://i.imgur.com/your-profile-picture.png" alt="Foto Profil Putra" width="180" style="border-radius: 50%; box-shadow: 0 0 15px rgba(0, 255, 0, 0.5);">
+  <h1>Halo, Saya <span style="color: #4CAF50;">Putra</span>! ✨</h1>
   <p><i>Building things for the web, one line of code at a time.</i></p>
+  
+  <a href="https://komarev.com/ghpvc/?username=your-username&color=green" alt="Profil views"></a>
 </div>
 
 ---
 
-<p align="center">
-  🌐 Passionate <b>Web Developer</b> | 🐍 <b>Python</b> | 📄 <b>JSON</b> | 🖥️ <b>HTML</b>
-</p>
-
----
-
-### 💻 Tentang Saya
+### 🚀 Tentang Saya
 
 <div align="justify">
-  Saya seorang <b>Pengembang Web</b> yang bersemangat dalam membangun solusi digital yang efisien dan memberikan pengalaman pengguna terbaik. Saya memiliki keahlian dalam <b>Python</b>, terutama untuk <i>backend logic</i> dan otomatisasi, serta menguasai <b>HTML</b> dan <b>JSON</b> untuk struktur data dan tampilan web. Saya percaya bahwa setiap baris kode adalah kesempatan untuk menciptakan sesuatu yang luar biasa.
+  <p>
+    Saya adalah seorang <b>Pengembang Web</b> yang bersemangat dengan keahlian utama dalam <b>Python</b> untuk <i>backend development</i>, <b>HTML</b> untuk struktur, dan <b>JSON</b> untuk pertukaran data. Saya memiliki minat mendalam pada otomasi dan membangun solusi yang efisien.
+  </p>
+  <p>
+    Saat ini, saya sedang mendalami <b>[sebutkan teknologi atau topik yang sedang Anda pelajari, misal: Django Framework]</b> untuk memperluas cakupan proyek saya.
+  </p>
 </div>
 
 ---
 
-### 🚀 Proyek Pilihan Saya
-
-<p align="center">
-  Berikut adalah beberapa proyek yang saya banggakan.
-</p>
+### 💻 Keahlian & Teknologi
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-pinned-repo-1&theme=radical" alt="Proyek 1" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-pinned-repo-2&theme=radical" alt="Proyek 2" width="400" />
+  <img src="https://skillicons.dev/icons?i=python,html,json,git,github,vscode,linux" alt="Skills Icons">
 </div>
-
+<br>
 <p align="center">
-  <a href="https://github.com/your-username?tab=repositories" target="_blank">Lihat Repositori Lainnya >></a>
+  <img src="https://skillicons.dev/icons?i=css,js,react,nodejs,docker" alt="Learning Icons" />
+  <br>
+  <span style="font-size: 0.9em; color: gray;">(Teknologi yang sedang saya pelajari)</span>
 </p>
 
 ---
 
-### 📈 Statistik & Aktivitas
+### 📂 Proyek Unggulan
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=onedark&hide_rank=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=onedark" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=onedark" alt="Top Languages">
+  <p>Berikut adalah proyek-proyek yang saya banggakan:</p>
+  <br>
+  
+  <a href="https://github.com/your-username/your-pinned-repo-1" target="_blank">
+    <img src="https://raw.githubusercontent.com/MicaelJ/MicaelJ/main/github-stats.svg" alt="Project 1 preview" width="400">
+  </a>
+  <a href="https://github.com/your-username/your-pinned-repo-2" target="_blank">
+    <img src="https://raw.githubusercontent.com/MicaelJ/MicaelJ/main/github-stats.svg" alt="Project 2 preview" width="400">
+  </a>
 </div>
 
 ---
 
-### 👋 Mari Terhubung
+### 📊 Statistik GitHub Saya
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_rank=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+### 💬 Mari Terhubung
+
+<p align="center">
+  Saya selalu terbuka untuk berdiskusi, berkolaborasi, atau hanya bertukar pikiran. Jangan ragu untuk menghubungi saya!
+</p>
 
 <div align="center">
   <a href="mailto:email-anda@gmail.com" target="_blank">
