@@ -43,7 +43,7 @@
 
 #### Tools & Platform
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,git," alt="Tools">
+  <img src="https://skillicons.dev/icons?i=vscode,github,git" alt="Tools">
 </div>
 
 ---
