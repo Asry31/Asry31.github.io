@@ -63,7 +63,7 @@
 </div>
 <div align="center">
 <a href="https://sigma-smart-school.web.app" target="_blank">
-    <img src="https://github.com/Asry31/Asry31/blob/main/Cuplikan%20layar%202025-09-22%20191424.png" alt="Proyek 3" width="400" />
+    <img src="Asry31.github.io/Cuplikan layar 2025-09-22 191424.png" alt="Proyek 3" width="400" />
   </a>
 </div>
 
