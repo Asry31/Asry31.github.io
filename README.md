@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 Tentang Saya
+### Tentang Saya
 
 <p align="justify">
   Nama saya <b>Putra Asry Sanjaya Tanjung</b>. Saya adalah seorang mahasiswa semester 5 di Universitas Teuku Umar, mengambil jurusan <b>Teknologi Informasi</b>. Sebagai seorang Web Developer, saya memiliki passion kuat dalam menciptakan solusi digital yang efisien dan memberikan pengalaman pengguna yang luar biasa. Saya fokus pada <b>Python</b> untuk <i>backend development</i>, <b>JSON</b> untuk pertukaran data, dan <b>HTML</b> untuk membangun struktur yang kokoh. Saya percaya bahwa setiap baris kode adalah kesempatan untuk belajar dan berkreasi.
