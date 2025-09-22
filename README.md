@@ -61,7 +61,7 @@
   <a href="https://sigma-smart-akademik.web.app/" target="_blank">
     <img src="https://github.com/Asry31/Asry31/blob/main/Cuplikan%20layar%202025-09-21%20234138.png" alt="Proyek 2" width="400" />
   </a>
-</div align="center">
+<div align="center">
 <a href="https://sigma-smart-school.web.app" target="_blank">
     <img src="https://github.com/Asry31/Asry31/blob/main/Cuplikan%20layar%202025-09-22%20191424.png" alt="Proyek 2" width="400" />
   </a>
