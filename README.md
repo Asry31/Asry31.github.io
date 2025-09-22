@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/193345457?v=4" alt="Foto Profil Putra" width="180" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 0 20px rgba(0, 123, 255, 0.7);">
   <h1>Hai, Saya <span style="color: #007bff;">Putra Arsy Sanjaya Tanjung</span>! 👋</h1>
-  <h3>Web 2305903040029</h3>
+  <h3>NIM : 2305903040029</h3>
   <h3>Web Developer | Mahasiswa Teknologi Informasi</h3>
 </div>
 
