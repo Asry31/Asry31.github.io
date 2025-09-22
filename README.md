@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/193345457?v=4" alt="Foto Profil Putra" width="180" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 0 20px rgba(0, 123, 255, 0.7);">
-  <h1>Hai, Saya <span style="color: #007bff;">Putra</span>! 👋</h1>
+  <h1>Hai, Saya <span style="color: #007bff;">Putra Arsy Sanjaya Tanjung</span>! 👋</h1>
+  <h3>Web 2305903040029</h3>
   <h3>Web Developer | Mahasiswa Teknologi Informasi</h3>
 </div>
 
@@ -9,17 +10,17 @@
 ### 🚀 Tentang Saya
 
 <p align="justify">
-  Nama saya <b>Putra Asry</b> dengan NIM <b>22201124</b>. Saya adalah seorang mahasiswa semester 5 di Universitas Mikroskil, mengambil jurusan <b>Teknologi Informasi</b>. Sebagai seorang Web Developer, saya memiliki passion kuat dalam menciptakan solusi digital yang efisien dan memberikan pengalaman pengguna yang luar biasa. Saya fokus pada <b>Python</b> untuk <i>backend development</i>, <b>JSON</b> untuk pertukaran data, dan <b>HTML</b> untuk membangun struktur yang kokoh. Saya percaya bahwa setiap baris kode adalah kesempatan untuk belajar dan berkreasi.
+  Nama saya <b>Putra Asry Sanjaya Tanjung</b>. Saya adalah seorang mahasiswa semester 5 di Universitas Teuku Umar, mengambil jurusan <b>Teknologi Informasi</b>. Sebagai seorang Web Developer, saya memiliki passion kuat dalam menciptakan solusi digital yang efisien dan memberikan pengalaman pengguna yang luar biasa. Saya fokus pada <b>Python</b> untuk <i>backend development</i>, <b>JSON</b> untuk pertukaran data, dan <b>HTML</b> untuk membangun struktur yang kokoh. Saya percaya bahwa setiap baris kode adalah kesempatan untuk belajar dan berkreasi.
 </p>
 
 ---
 
 ### 🎓 Riwayat Pendidikan
 
-- **S1 Teknologi Informasi**, Universitas Mikroskil (2022 - Sekarang)
+- **S1 Teknologi Informasi**, Universitas Teuku Umar (2023 - Sekarang)
   - Fokus pada pengembangan web dan sistem informasi.
-- **SMK Teknik Komputer dan Jaringan**, SMKN 1 Banda Aceh (2019 - 2022)
-  - Mempelajari dasar-dasar pemrograman dan jaringan komputer.
+- **SMK Jurusan Multimedia**, SMKN 1 Gunung Meriah (2020 - 2023)
+- **Madrasah sanahwiya** Pesantren Al - Kausar Al - Akbar Medan (2017 - 2019)
 
 ---
 
@@ -27,12 +28,12 @@
 
 #### Bahasa Pemrograman
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,c,java" alt="Languages">
+  <img src="https://skillicons.dev/icons?i=python,js,html," alt="Languages">
 </div>
 
 #### Framework & Library
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,django,nodejs" alt="Frameworks">
+  <img src="https://skillicons.dev/icons?i=react,nodejs" alt="Frameworks">
 </div>
 
 #### Database
