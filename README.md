@@ -7,10 +7,10 @@
 
 ---
 
-### Tentang Saya
+### 🚀 Tentang Saya
 
 <p align="justify">
-  Nama saya <b>Putra Asry Sanjaya Tanjung</b>. Saya adalah seorang mahasiswa semester 5 di Universitas Teuku Umar, mengambil jurusan <b>Teknologi Informasi</b>. Sebagai seorang Web Developer, saya memiliki passion kuat dalam menciptakan solusi digital yang efisien dan memberikan pengalaman pengguna yang luar biasa. Saya fokus pada <b>Python</b> untuk <i>backend development</i>, <b>JSON</b> untuk pertukaran data, dan <b>HTML</b> untuk membangun struktur yang kokoh. Saya percaya bahwa setiap baris kode adalah kesempatan untuk belajar dan berkreasi.
+  Nama saya <b>Putra Arsy Sanjaya Tanjung</b>. Saya adalah seorang mahasiswa semester 5 di Universitas Teuku Umar, mengambil jurusan <b>Teknologi Informasi</b>. Sebagai seorang Web Developer, saya memiliki passion kuat dalam menciptakan solusi digital yang efisien dan memberikan pengalaman pengguna yang luar biasa. Saya fokus pada <b>Python</b> untuk <i>backend development</i>, <b>JSON</b> untuk pertukaran data, dan <b>HTML</b> untuk membangun struktur yang kokoh. Saya percaya bahwa setiap baris kode adalah kesempatan untuk belajar dan berkreasi.
 </p>
 
 ---
@@ -60,9 +60,10 @@
   <a href="https://sigma-smart-akademik.web.app/" target="_blank">
     <img src="https://github.com/Asry31/Asry31/blob/main/Cuplikan%20layar%202025-09-21%20234138.png" alt="Proyek 2" width="400" />
   </a>
+</div>
 <div align="center">
 <a href="https://sigma-smart-school.web.app" target="_blank">
-    <img src="https://github.com/Asry31/Asry31/blob/main/Cuplikan%20layar%202025-09-22%20191424.png" alt="Proyek 2" width="400" />
+    <img src="https://github.com/Asry31/Asry31/blob/main/Cuplikan%20layar%202025-09-22%20191424.png" alt="Proyek 3" width="400" />
   </a>
 </div>
 
