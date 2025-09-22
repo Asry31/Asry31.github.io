@@ -18,7 +18,6 @@
 ### 🎓 Riwayat Pendidikan
 
 - **S1 Teknologi Informasi**, Universitas Teuku Umar (2023 - Sekarang)
-  - Fokus pada pengembangan web dan sistem informasi.
 - **SMK Jurusan Multimedia**, SMKN 1 Gunung Meriah (2020 - 2023)
 - **Madrasah sanahwiya** Pesantren Al - Kausar Al - Akbar Medan (2017 - 2019)
 
